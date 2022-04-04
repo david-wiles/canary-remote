@@ -1,0 +1,5 @@
+{
+  "analyze": "analyze.cmd",
+  "description": "Say hello",
+  "solution": "solution.cmd"
+}
