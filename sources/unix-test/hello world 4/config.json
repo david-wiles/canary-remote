@@ -1,0 +1,4 @@
+{
+  "analyze": "analyze.sh",
+  "description": "Say Hello, World! in bash"
+}
