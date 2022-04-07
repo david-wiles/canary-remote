@@ -1,0 +1,2 @@
+description=Restrict container processes using security opts to prevent extra privileges
+analyze=analyze.sh

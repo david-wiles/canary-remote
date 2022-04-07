@@ -1,0 +1,2 @@
+description=Do not share IPC namespaces between the host and containers
+analyze=analyze.sh

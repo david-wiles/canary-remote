@@ -1,0 +1,3 @@
+description=Ensure that Docker files are audited
+analyze=analyze.sh
+solution=solution.sh

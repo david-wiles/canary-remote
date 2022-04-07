@@ -1,0 +1,3 @@
+description=Ensure that Docker.socket is audited
+analyze=analyze.sh
+solution=solution.sh

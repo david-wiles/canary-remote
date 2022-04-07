@@ -1,0 +1,2 @@
+description=Ensure that the Docker socket is not mounted inside a container
+analyze=analyze.sh

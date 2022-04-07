@@ -1,0 +1,2 @@
+description=Confirm containers are running in proper cgroups
+analyze=analyze.sh

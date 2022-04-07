@@ -1,0 +1,2 @@
+description=Check container health at runtime to ensure availability
+analyze=analyze.sh

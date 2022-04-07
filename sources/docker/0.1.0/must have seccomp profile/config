@@ -1,0 +1,2 @@
+description=Ensure that all containers are running with a seccomp profile
+analyze=analyze.sh

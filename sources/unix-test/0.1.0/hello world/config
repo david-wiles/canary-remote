@@ -1,3 +1,3 @@
-analyze=analyze.cmd
-solution=solution.cmd
+analyze=analyze.sh
+solution=solution.sh
 description=Say Hello World in the Bourne-Again Shell!

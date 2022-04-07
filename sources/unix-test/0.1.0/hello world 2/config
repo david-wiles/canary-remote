@@ -1,2 +1,2 @@
-analyze=analyze.cmd
+analyze=analyze.sh
 description=Say Hello World in the Bourne-Again Shell!

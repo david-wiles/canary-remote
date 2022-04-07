@@ -1,0 +1,2 @@
+description=Use separate UTS namespaces from the host
+analyze=analyze.sh
