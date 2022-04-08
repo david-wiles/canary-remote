@@ -1,0 +1,2 @@
+description=Limit connections per IP to mitigate DDoS attacks
+analyze=analyze.sh

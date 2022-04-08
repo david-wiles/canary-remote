@@ -1,0 +1,2 @@
+description=Use partitions of disks when giving guests access to physical drives
+analyze=analyze.sh

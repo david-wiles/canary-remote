@@ -1,0 +1,2 @@
+description=Rate limit requests per IP to mitigate DDoS attacks
+analyze=analyze.sh

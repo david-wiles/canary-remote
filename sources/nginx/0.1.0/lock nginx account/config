@@ -1,0 +1,3 @@
+description=Lock the nginx account so it can't be used except by the machine
+analyze=analyze.sh
+solution=solution.sh

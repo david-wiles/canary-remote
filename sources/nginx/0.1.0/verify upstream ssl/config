@@ -1,0 +1,2 @@
+description=Verify SSL certificates for upstream servers to validate authenticity
+analyze=analyze.sh

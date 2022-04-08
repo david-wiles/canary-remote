@@ -1,0 +1,2 @@
+description=Ensure that large_client_header_buffers is defined to mitigate DDoS attacks
+analyze=analyze.sh

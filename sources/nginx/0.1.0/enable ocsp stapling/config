@@ -1,0 +1,2 @@
+description=Enable OCSP stapling to meet a browser's security requests
+analyze=analyze.sh

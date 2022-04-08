@@ -1,0 +1,2 @@
+description=Ensure the WebDAV module is not included in nginx. This is installed by default
+analyze=analyze.sh

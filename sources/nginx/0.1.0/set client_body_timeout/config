@@ -1,0 +1,2 @@
+description=Ensure client_body_timeout is set to mitigate DDoS attacks
+analyze=analyze.sh

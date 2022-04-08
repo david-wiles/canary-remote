@@ -1,0 +1,2 @@
+description=Disable SSL session tickets to ensure compromised sessions are not accepted
+analyze=analyze.sh

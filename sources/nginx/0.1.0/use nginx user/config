@@ -1,0 +1,3 @@
+description=Run Nginx with a dedicated user
+analyze=analyze.sh
+solution=solution.sh

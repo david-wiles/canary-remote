@@ -11,4 +11,5 @@ SUM="$PKG"_"$VERSION.tar.gz.sum"
 tar -C "./sources" -zcvf $TAR "$PKG/$VERSION"
 sha256sum $TAR > $SUM
 
-mv $TAR $SUM -t ./www/$PKG
+mkdir -p ./www/$PKG
+mv $TAR $SUM ./www/$PKG
