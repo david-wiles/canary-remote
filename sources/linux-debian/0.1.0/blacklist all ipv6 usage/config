@@ -1,0 +1,3 @@
+description=Blacklist all IPv6 usage so acceptable use can be whitelisted
+analyze=analyze.sh
+solution=solution.sh

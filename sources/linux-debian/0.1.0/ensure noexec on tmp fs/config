@@ -1,0 +1,3 @@
+description=Ensure noexec is set on /tmp to prevent remote code execution in files under the /tmp filesystem
+analyze=analyze.sh
+solution=solution.sh

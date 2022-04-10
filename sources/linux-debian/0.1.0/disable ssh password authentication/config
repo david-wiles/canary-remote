@@ -1,0 +1,3 @@
+description=Disable password authentication through SSH
+analyze=analyze.sh
+solution=solution.sh

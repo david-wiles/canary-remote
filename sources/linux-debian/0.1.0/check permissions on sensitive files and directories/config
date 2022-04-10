@@ -1,0 +1,2 @@
+description=Secure common files and directories containing sensitive data
+analyze=analyze.sh

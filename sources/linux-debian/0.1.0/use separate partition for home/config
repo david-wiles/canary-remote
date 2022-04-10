@@ -1,0 +1,2 @@
+description=Ensure /home exists on a separate partition
+analyze=analyze.sh
