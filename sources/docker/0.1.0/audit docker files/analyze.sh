@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -x $(command -v auditctl) ]
+if ! command -v auditctl &> /dev/null
 then
   exit 1
 fi
